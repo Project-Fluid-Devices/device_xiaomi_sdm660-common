@@ -16,3 +16,5 @@ type sysfs_torch, sysfs_type, fs_type;
 type sysfs_fastcharge, sysfs_type, fs_type;
 type sysfs_headgain, sysfs_type, fs_type;
 type sysfs_micgain, sysfs_type, fs_type;
+
+type proc_sched_energy_aware, proc_type, fs_type;
