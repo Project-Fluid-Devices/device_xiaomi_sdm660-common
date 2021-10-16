@@ -389,6 +389,10 @@ PRODUCT_PACKAGES += \
     ipacm \
     IPACM_cfg.xml
 
+# Tensor Flow Lite
+PRODUCT_PACKAGES += \
+    libtflite
+
 # Trust
 PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
