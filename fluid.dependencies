@@ -13,19 +13,19 @@
   },
   {
     "remote"      : "LineageOS",
-    "repository"  : "LineageOS/android_hardware_qcom_media",
+    "repository"  : "sfierxyz/android_hardware_qcom_media",
     "target_path" : "hardware/qcom-caf/msm8998/media",
     "branch"      : "12"
   },
   {
     "remote"      : "LineageOS",
-    "repository"  : "sfierxyz/androd_hardware_qcom_display",
+    "repository"  : "sfierxyz/android_hardware_qcom_display",
     "target_path" : "hardware/qcom-caf/msm8998/display",
     "branch"      : "12"
   },
   {
     "remote"      : "LineageOS",
-    "repository"  : "LineageOS/android_hardware_qcom_audio",
+    "repository"  : "sfierxyz/android_hardware_qcom_audio",
     "target_path" : "hardware/qcom-caf/msm8998/audio",
     "branch"      : "12"
   }
