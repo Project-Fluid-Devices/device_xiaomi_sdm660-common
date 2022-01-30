@@ -259,6 +259,10 @@ vendor/lib64/libsdm-diag.so|6eb99b83036f917070393fa067eaebc50a5ff307
 vendor/lib64/libsdm-disp-vndapis.so|ba4978c373f9892d884d07c4cf25dba9d73fda1f
 vendor/lib64/libtinyxml2_1.so|ba981e332895a053a67fc54a8190365a3ad37f2d
 
+# libtinyxml.so - from Prebuilt
+vendor/lib/libtinyxml.so|6d25006817df068adc3fba66b644b340107fb045
+vendor/lib64/libtinyxml.so|15b791b2c8b7da031de8db2f9d0721b9084f27a8
+
 # Graphics (SDM) - from LA.UM.8.2.r1-07500-sdm660.0
 vendor/lib/libsdm-color.so|05e6eedb8f9656d9097a1c3cee09ceeef1025181
 vendor/lib/libsdmextension.so|ebc3f1aed53d208ccc665a173198adb9e0ed6a79
