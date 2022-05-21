@@ -114,6 +114,11 @@ vendor.display.disable_rotator_downscale=1
 vendor.display.disable_scaler=0
 debug.hwui.use_buffer_age=false
 debug.sf.recomputecrop=0
+debug.mdpcomp.logs=0
+debug.sf.disable_client_composition_cache=1
+vendor.gralloc.disable_ubwc=0
+vendor.display.comp_mask=0
+vendor.display.disable_scaler=0
 
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
